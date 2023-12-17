@@ -1,0 +1,54 @@
+
+
+.your-component-container {
+    max-width: 800px;
+    margin-left: 65%;
+    padding: 20px;
+    margin-top: 2%;
+    
+  }
+  
+  .your-component-container h2 {
+    font-size: 24px;
+    color:rgba(107, 60, 201, 1);
+    
+    margin-bottom: 10px;
+  }
+  
+  .your-component-container p {
+    font-size: 16px;
+    line-height: 1.5;
+    color:black;
+    margin-bottom: 20px;
+    
+  }
+  
+
+
+
+  .your-component-container-two{
+    max-width: 800px;
+    margin-left: 4%;
+    padding: 20px;
+    margin-top: -3%;
+    font-size: 16px;
+  }
+  
+  .your-component-container-two h2 {
+    font-size: 24px;
+    color: rgba(107, 60, 201, 1);
+    
+    margin-bottom: 10px;
+  }
+  
+  .your-component-container-two p {
+    font-size: 16px;
+    line-height: 1.5;
+    color:black;
+    margin-bottom: 20px;
+  }
+
+.Getfreeconsultation{
+  position: relative;
+  left: -925px;
+}

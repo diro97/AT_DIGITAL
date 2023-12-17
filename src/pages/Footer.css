@@ -1,0 +1,81 @@
+
+.footer-container {
+  position: relative;
+  width: 1440px;
+  height: 324px;
+  top: 850px;
+  left: 80px;
+  padding: 40px 80px 20px 80px;
+  gap: 40px;
+  background: rgba(107, 60, 201, 1);
+}
+
+.footer-text {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff; 
+  margin-top: 10px;
+}
+
+
+.footer-text p {
+  width: 100%;
+  height: auto; 
+  margin: 0; 
+}
+
+.ourtechnology {
+position: relative;
+  left: 40%;
+  top: -60px;
+ 
+}
+.technology-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0; 
+}
+
+.technology-list li {
+  position: relative;
+  left: 55%;
+  top:-60px;
+  
+ 
+  
+}
+
+
+.ourServicecs{
+  position: relative;
+  top: -180px;
+  margin-left: 75%;
+}
+.service-list{
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+.service-list li {
+position: relative;
+top:-180px;
+margin-left: 75%;
+margin-bottom: 5px;
+
+}
+
+
+
+
+.pptc{
+  position: relative;
+  top: -110px;
+  margin: 35% ;
+  color: #fff;
+  border-top: 1px solid rgba(255, 255, 255, 1);
+  
+}
